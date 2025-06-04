@@ -1,0 +1,8 @@
+DevSecOps localhost:8080
+
+WPScan date de logare
+
+Site Title : DevSecOps_Demo
+Username : Admin
+Password : fSG(l!cL6os!&63hN%
+Email :daniel.cotolan03@e-uvt.ro
